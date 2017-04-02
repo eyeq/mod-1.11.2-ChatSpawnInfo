@@ -1,0 +1,9 @@
+[
+{
+	"modid": "eyeq_chatspawninfo",
+	"name": "ChatSpawnInfo",
+	"description": "スポーン情報を表示",
+	"authorList": ["eyeq"],
+	"credits": ""
+}
+]
